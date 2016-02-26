@@ -4,14 +4,14 @@
         <proxy>
             <active>true</active>
             <protocol>http</protocol>
-            <host>200.189.113.254</host>
-            <port>8000</port>
+            <host>http://10.211.32.100</host>
+            <port>3128</port>
         </proxy>
         <proxy>
             <active>true</active>
             <protocol>https</protocol>
-            <host>200.189.113.254</host>
-            <port>8000</port>
+            <host>http://10.211.32.100</host>
+            <port>3128</port>
         </proxy>
     </proxies>
 
