@@ -1,19 +1,6 @@
 <settings>
 
-    <proxies>
-        <proxy>
-            <active>true</active>
-            <protocol>http</protocol>
-            <host>http://10.211.32.100</host>
-            <port>3128</port>
-        </proxy>
-        <proxy>
-            <active>true</active>
-            <protocol>https</protocol>
-            <host>http://10.211.32.100</host>
-            <port>3128</port>
-        </proxy>
-    </proxies>
+
 
     <profiles>
     
