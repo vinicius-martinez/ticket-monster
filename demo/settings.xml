@@ -4,14 +4,14 @@
 		<proxy>
 			<active>true</active>
 			<protocol>http</protocol>
-			<host>http://10.211.32.100</host>
+			<host>10.211.32.100</host>
 			<port>3128</port>
 			<nonProxyHosts>master-demov3-veer.procempa.com.br|node1-demov3-veer.procempa.com.br|node2-demov3-veer.procempa.com.br|172.30.103.43|*procempa.com.br</nonProxyHosts>
 		</proxy>
 		<proxy>
 			<active>true</active>
 			<protocol>https</protocol>
-			<host>https://10.211.32.100</host>
+			<host>10.211.32.100</host>
 			<port>3128</port>
 			<nonProxyHosts>master-demov3-veer.procempa.com.br|node1-demov3-veer.procempa.com.br|node2-demov3-veer.procempa.com.br|172.30.103.43|*procempa.com.br</nonProxyHosts>
 		</proxy>
