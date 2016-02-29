@@ -1,5 +1,5 @@
 <settings>
-
+<!--
 	<proxies>
 		<proxy>
 			<active>true</active>
@@ -16,7 +16,7 @@
 			<nonProxyHosts>master-demov3-veer.procempa.com.br|node1-demov3-veer.procempa.com.br|node2-demov3-veer.procempa.com.br|172.30.103.43|*procempa.com.br</nonProxyHosts>
 		</proxy>
 	</proxies>
-
+-->
 	<profiles>
 
 		<profile>
