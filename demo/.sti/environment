@@ -1,3 +1,4 @@
 HTTP_PROXY=http://10.211.32.100:3128
 HTTPS_PROXY=http://10.211.32.100:3128
 NO_PROXY=master-demov3-veer.procempa.com.br,node1-demov3-veer.procempa.com.br,node2-demov3-veer.procempa.com.br,172.30.103.43,procempa.com.br
+MAVEN_ARGS=settings.xml
