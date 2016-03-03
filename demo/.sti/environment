@@ -2,4 +2,4 @@ HTTP_PROXY=http://10.211.32.100:3128
 HTTPS_PROXY=https://10.211.32.100:3128
 NO_PROXY=master-demov3-veer.procempa.com.br,node1-demov3-veer.procempa.com.br,node2-demov3-veer.procempa.com.br,172.30.103.43,procempa.com.br
 MAVEN_ARGS=-e -Popenshift -DskipTests -Dcom.redhat.xpaas.repo.redhatga package -Djava.net.preferIPv4Stack=true -ssettings.xml -Djava.net.preferIPv4Stack=true
-JAVA_OPTS_APPEND='-Dhttp.proxyHost=10.211.32.100 -Dhttp.proxyPort=3128 -Dhttps.proxyHost=10.211.32.100 -Dhttps.proxyPort=3128'
+#JAVA_OPTS_APPEND='-Dhttp.proxyHost=10.211.32.100 -Dhttp.proxyPort=3128 -Dhttps.proxyHost=10.211.32.100 -Dhttps.proxyPort=3128'
