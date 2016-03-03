@@ -2,3 +2,4 @@ HTTP_PROXY=http://200.189.113.254:8000
 HTTPS_PROXY=http://200.189.113.254:8000
 NO_PROXY=scelepar00915.celepar.parana,127.0.0.1,celepar.parana
 MAVEN_ARGS=-e package -Popenshift -DskipTests -Dcom.redhat.xpaas.repo.redhatga -ssettings.xml
+JAVA_OPTS_APPEND='-Dhttp.proxyHost=200.189.113.254 -Dhttp.proxyPort=8000 -Dhttps.proxyHost=200.189.113.254 -Dhttps.proxyPort=8000'
